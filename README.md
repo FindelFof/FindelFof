@@ -52,7 +52,7 @@ I enjoy building:
 
 ## ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman,vscode,webstorm,phpstorm,cursor,androidstudio,redis,lamp" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman,vscode,webstorm,phpstorm,androidstudio,redis,lamp" />
 </p>
 
 ---
